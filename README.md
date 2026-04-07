@@ -2,9 +2,9 @@
 안녕하세요! 영남대학교 컴퓨터 공학과 재학중인 김민찬입니다.
 
 ## 🌱 I’m currently learning ...
--Algorithms & Data Structures
--Backend Development
--IOT
+- Algorithms & Data Structures
+- Backend Development
+- IOT
 ## Tech Stack
 -Java, C++, Python
 
