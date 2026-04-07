@@ -6,9 +6,8 @@
 - Backend Development
 - IOT
 ## Tech Stack
--Java, C++, Python
-
-
+- Java, C++, Python
+- Html 
 <!--
 **mincan492-ui/mincan492-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
