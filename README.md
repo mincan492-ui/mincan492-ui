@@ -1,6 +1,13 @@
 ## Hi there 👋
+안녕하세요! 영남대학교 컴퓨터 공학과 재학중인 김민찬입니다.
 
-영남대학교 컴퓨터공학과
+## 🌱 I’m currently learning ...
+-Algorithms & Data Structures
+-Backend Development
+-IOT
+## Tech Stack
+-Java, C++, Python
+
 
 <!--
 **mincan492-ui/mincan492-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
